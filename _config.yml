@@ -27,7 +27,7 @@ navigation: # Navigation links
 tagline: >
   Tips and guides for being successful on the web.
 
-hero_img: #posts/hero.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+hero_img: posts/hero.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: your-email@domain.com # email for form submission
 
