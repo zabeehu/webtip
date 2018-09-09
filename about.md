@@ -1,9 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+
 ---
-
-WebTip.org was created to offer helpful tips and guides for the web, without the fluff.
-
-This website is built using Jekyll, a static site generator.
+WebTip.org was created to help anyone looking for tips and guide to be successful in online business.
