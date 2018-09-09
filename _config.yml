@@ -2,9 +2,9 @@
 title: WebTip.org # your site title
 author:  # You :P
 description: > # Meta description of Homepage
-  Tips and guides for the web. Tutorials on creating sites, SEO, hosting, and more.
+  Tips and guides to be successful online
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://webtip.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
