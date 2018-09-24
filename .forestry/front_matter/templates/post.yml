@@ -12,5 +12,15 @@ fields:
 - type: tag_list
   label: Categories
   name: categories
+- type: text
+  name: layout
+  label: Layout
+  config:
+    required: true
+- type: text
+  name: title
+  label: Title
+  config:
+    required: true
 pages:
 - _posts/What-is-a-Sales-Funnel.md
