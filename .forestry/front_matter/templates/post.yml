@@ -13,6 +13,7 @@ fields:
   label: Layout
   config:
     required: true
+  default: post
 - type: datetime
   config:
     required: true
