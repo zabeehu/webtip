@@ -2,6 +2,12 @@
 label: Post
 hide_body: false
 is_partial: false
-fields: []
+fields:
+- type: datetime
+  config:
+    required: true
+  label: Date
+  name: date
+  description: Enter the date of the post.
 pages:
 - _posts/What-is-a-Sales-Funnel.md
