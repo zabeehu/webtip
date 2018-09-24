@@ -10,7 +10,7 @@ fields:
   name: date
   description: Enter the date of the post.
 - type: tag_list
-  label: Category
-  name: category
+  label: Categories
+  name: categories
 pages:
 - _posts/What-is-a-Sales-Funnel.md
