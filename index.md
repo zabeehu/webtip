@@ -1,5 +1,5 @@
 ---
 layout: default
-title: WebTip
+title: WebTip Home
 
 ---
