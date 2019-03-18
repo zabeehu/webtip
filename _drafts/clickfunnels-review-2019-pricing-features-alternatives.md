@@ -38,3 +38,7 @@ The ability to create a much higher converting site/funnel, extremely easily wit
 For beginners who are looking to start an online business, investing $97 a month from the start might not be something they want to do, which is very understandable. Depending on your business, there are ways to build a website and funnel for cheaper, but it is more time consuming is just not as versatile
 
 ClickFunnels does offer a 14-day free trial that you can cancel any time, so trying it out is a good option. You can easily build a funnel in a day (in minutes if you use a share funnel) and test it out for yourself. Keep in mind, in this 14-day trial, you can accept payments and everything. That is something many trials don't offer, and you can really see if the price tag is worth it to you. If you use that time wisely and already have a plan, it might even pay for itself.
+
+Share Funnels
+
+One of the coolest features is "Share Funnels". This feature allows you to click a link, and instantly add a pre-built funnel to your account. No matter what kind of business you run, there is someone out there who has already tested funnels and found one that converts customers well, and you can use that to your advantage. 
