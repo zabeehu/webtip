@@ -1,8 +1,9 @@
 ---
 layout: post
-title: How to Use Free Plus Shipping in 2018
+title: How to Use Free Plus Shipping
 featured-img: 
 mathjax: false
+permalink: "/how-to-use-free-plus-shipping/"
 categories:
 - Funnels
 
