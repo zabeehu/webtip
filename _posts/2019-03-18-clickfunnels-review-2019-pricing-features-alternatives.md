@@ -3,6 +3,7 @@ layout: post
 title: ClickFunnels Review [2019] - Pricing, Features, Alternatives
 date: 2019-03-18 08:24:02 +0000
 permalink: "/clickfunnels-review/"
+featured-img: clickfunnels-logo
 categories: []
 
 ---
