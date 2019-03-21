@@ -44,7 +44,7 @@ The $97 per month price might seem high for some beginners, but is it really? Th
 
 The way some people try to advertise ClickFunnels can be kind of scammy. The reason for this, no one really knows. Most of them are probably just trying to make money off of you without giving real value. The fact is that ClickFunnels is in no way a scam, and that every business needs funnels. Whether you like ClickFunnels as a software is up to you, but the thousands of entrepreneurs who have tried it can vouch that it is the easiest way to build funnels, and that the community and support is huge. There's nothing better than having people around you that are successful, and are willing to help you.
 
-How can a beginner start using ClickFunnels?
+## How to get started with ClickFunnels
 
 If you've decided that you want to use sales funnels, you are ahead of the game. But you might be thinking, how will you actually make a funnel? How long will it take? How do I know it will work? These are all valid questions that you should be asking. There's a reason ClickFunnels has become so popular, and it is that you have the choice to build your own funnel, or use pre-built funnels. ClickFunnels has many funnels offered off the bat including e-commerce funnels, email opt-ins, webinar funnels, and many more. The great thing is that the structure of these funnels are proven, and all you have to do is customize them for your business and add copy. So as long as you have a vision and a product to offer, you should have no issue launching your first funnel.
 
