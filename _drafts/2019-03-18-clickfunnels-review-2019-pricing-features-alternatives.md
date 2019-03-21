@@ -26,7 +26,7 @@ Cons
 * Price can be high for beginners
 * No undo button
 
-### What is a sales funnel?
+## What is a sales funnel?
 
 First off, if you don't know what a sales funnel is, it is the process customers go through to purchase something. Properly guiding someone through the process can increase your conversion rate from the average 1%, to over 20% in some cases. Implementing a good sales funnel is key to being truly profitable. Some beginners think it is something fancy that they don't need, or don't want to take the time to understand.
 
@@ -43,6 +43,14 @@ The $97 per month price might seem high for some beginners, but is it really? Th
 ## Is ClickFunnels a scam?
 
 The way some people try to advertise ClickFunnels can be kind of scammy. The reason for this, no one really knows. Most of them are probably just trying to make money off of you without giving real value. The fact is that ClickFunnels is in no way a scam, and that every business needs funnels. Whether you like ClickFunnels as a software is up to you, but the thousands of entrepreneurs who have tried it can vouch that it is the easiest way to build funnels, and that the community and support is huge. There's nothing better than having people around you that are successful, and are willing to help you.
+
+How can a beginner start using ClickFunnels?
+
+If you've decided that you want to use sales funnels, you are ahead of the game. But you might be thinking, how will you actually make a funnel? How long will it take? How do I know it will work? These are all valid questions that you should be asking. There's a reason ClickFunnels has become so popular, and it is that you have the choice to build your own funnel, or use pre-built funnels. ClickFunnels has many funnels offered off the bat including e-commerce funnels, email opt-ins, webinar funnels, and many more. The great thing is that the structure of these funnels are proven, and all you have to do is customize them for your business and add copy. So as long as you have a vision and a product to offer, you should have no issue launching your first funnel.
+
+### Share Funnels
+
+Not only can you choose from these funnels, but people all over the internet and the ClickFunnels community has created funnels for all different kinds of businesses. They are called Share Funnels. 
 
 ClickFunnels vs Shopify
 
