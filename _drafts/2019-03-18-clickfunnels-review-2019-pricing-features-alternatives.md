@@ -28,9 +28,11 @@ Cons
 
 ## ClickFunnels Pricing - Is it worth it?
 
-The regular version of ClickFunnels is $97 a month. There is also a $197 tier which includes more advanced features when it comes to email automation, but the $97 tier is sufficient for most.
+The regular version of ClickFunnels is $97 a month. There is also a $297 tier which includes more advanced features when it comes to email automation, and allows you to create unlimited funnels, but the $97 tier is sufficient especially if you are just starting out.
 
-This price might seem steep to some beginners, but when it comes down to it, ClickFunnels offers features that no one else offers at this price. You can build an entire site, without needing to buy any plugins or add-ons. Comparing it to something like a Shopify or WordPress site, all the plugins needed to reach the features of a Clickfunnels page would easily cost more, while being harder to use.
+This price might seem steep to some beginners, but in reality, it is actually pretty good value. There are a lot of features built in that the competitors don't offer. If you wanted to create a similar funnel with something like Shopify or WordPress, it would easily cost over $100 with the costs of plugins and seperate software. Bottom line is, ClickFunnels has more features built in, and is A LOT easier to use and set up. That, plus the 14-day full-featured free trial well worth it.
+
+Before using ClickFunnels in our business, we were running a Shopify store. We wanted to implement a better funnel for free plus shipping. To do this, we used an app called Zipify OneClickUpsell. After purchasing an item, customers would be presented with a custom up-sell, where they could add something to their order with one click. Having upsells are key to increasing profits and average order value, so an app like that is extremely valuable. For brands that use Shopify and have a catalog of products with an established customer base, this app can make you a lot of money. But when running something like a free plus shipping campaign, or just cold traffic to a product you are drop shipping, it is not nearly as effective as using a real funnel. Most people have losing campaigns because they are running cold traffic to a Shopify product page, and expecting customers to just purchase. Using ClickFunnels allows you to create a custom landing page for your product, collect their email, add upsells, etc. 
 
 The ability to create a much higher converting site/funnel, extremely easily with full analytics and customization without any additional plugins or add-ons that will make you more money is easily worth the $97 a month price tag. Hopefully this puts into perspective the value you get with a basic ClickFunnels account.
 
