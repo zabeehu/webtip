@@ -25,7 +25,7 @@ navigation: # Navigation links
   #- {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Tips and guides for being successful on the web.
+  Tips, guides, and reviews. Pursue online business the right way.
 
 hero_img: posts/hero.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
