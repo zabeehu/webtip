@@ -2,6 +2,7 @@
 layout: page
 title: Categories
 permalink: "/categories"
+description: "Categories for WebTip.org. Posts about online business and marketing to help you be successful."
 ---
 
 <div>

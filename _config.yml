@@ -1,7 +1,8 @@
 # SITE CONFIGURATION
 title: WebTip.org # your site title
 author:  # You :P
-description: > # Meta description of Homepage
+description: "Guides, reviews, and tips to be successful on the web. Pursue online business
+the right way." # Meta description of Homepage
   Tips and guides to be successful online
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://webtip.org" # the base hostname & protocol for your site, e.g. http://example.com
