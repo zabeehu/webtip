@@ -26,6 +26,15 @@ Cons
 * Price can be high for beginners
 * No undo button
 
+**What we'll go over in this review...**
+
+* What is ClickFunnels
+* Pros and Cons
+* ClickFunnels Pricing - Is it worth it?
+* ClickFunnels Top Features
+* What's wrong with ClickFunnels
+* Conclusion - Should you purchase ClickFunnels
+
 ## What is a sales funnel?
 
 First off, if you don't know what a sales funnel is, it is the process customers go through to purchase something. Properly guiding someone through the process can increase your conversion rate from the average 1%, to over 20% in some cases. Implementing a good sales funnel is key to being truly profitable. Some beginners think it is something fancy that they don't need, or don't want to take the time to understand.
@@ -46,9 +55,17 @@ The way some people try to advertise ClickFunnels can be kind of scammy. The rea
 
 ## How to get started with ClickFunnels
 
-If you've decided that you want to use sales funnels, you are ahead of the game. But you might be thinking, how will you actually make a funnel? How long will it take? How do I know it will work? These are all valid questions that you should be asking. There's a reason ClickFunnels has become so popular, and it is that you have the choice to build your own funnel, or use pre-built funnels. ClickFunnels has many funnels offered off the bat including e-commerce funnels, email opt-ins, webinar funnels, and many more. The great thing is that the structure of these funnels are proven, and all you have to do is customize them for your business and add copy. So as long as you have a vision and a product to offer, you should have no issue launching your first funnel.
+If you've decided that you want to use sales funnels, you are ahead of the game. But you might be thinking, how will you actually make a funnel? How long will it take? How do I know it will work? These are all valid questions that you should be asking. There's a reason ClickFunnels has become so popular, and it is that you have the choice to build your own funnel, or use pre-built funnels. ClickFunnels has many funnels offered off the bat including e-commerce funnels, email opt-ins, webinar funnels, and many more. The great thing is that the structure of these funnels are proven, and all you have to do is customize them for your business and add copy. The best part, users can build funnels, and instantly share them with anyone else in the world. This means all over the internet are people sharing their funnels for free so you can copy them and try to imitate their success. The key is to find funnels that are proven and have high conversion rates. This means less work for you, and can help you reach your goals faster. As long as you have a vision and a product to offer, you should have no issue launching your first funnel.
+
+## ClickFunnels Top Features List
+
+### Drag and Drop Page Builder
+
+ClickFunnels is all about ease of use. Building a funnel with Clickfunnels does not require any coding, development, or designing experience. Everything is drag and drop, and has a very small learning curve. This means an entrepreneur can stop wasting time and even if they don't have much experience, they can create an offer and sales funnel that converts very well, without all the time and effort required in the past. As mentioned before, funnels can be copied and shared, so all you need to do is add your copy, images, and customize colors and stuff to your own liking.
 
 ### Share Funnels
+
+One of the coolest features is "Share Funnels". This feature allows you to click a link, and instantly add a pre-built funnel to your account. No matter what kind of business you run, there is someone out there who has already tested funnels and found one that converts customers well, and you can use that to your advantage.
 
 Not only can you choose from these funnels, but people all over the internet and the ClickFunnels community has created funnels for all different kinds of businesses. They are called Share Funnels. 
 
@@ -62,8 +79,10 @@ For beginners who are looking to start an online business, investing $97 a month
 
 ClickFunnels does offer a 14-day free trial that you can cancel any time, so trying it out is a good option. You can easily build a funnel in a day (in minutes if you use a share funnel) and test it out for yourself. Keep in mind, in this 14-day trial, you can accept payments and everything. That is something many trials don't offer, and you can really see if the price tag is worth it to you. If you use that time wisely and already have a plan, it might even pay for itself.
 
+### Simple A/B testing
+
+With each funnel, you can create a simple A/B test, which allows you to test 2 versions of a funnel automatically. There is a slider where you can decide how the traffic gets split between the 2 and you will see the conversion results. To test properly, it is important to make subtle changes and make sure you're aware of the differences so you can clearly track and improve your funnels. You never know what can improve you conversions, so this easy testing is a killer feature, even if it is really simple.
+
 ## ClickFunnels Top Features
 
 ### Share Funnels
-
-One of the coolest features is "Share Funnels". This feature allows you to click a link, and instantly add a pre-built funnel to your account. No matter what kind of business you run, there is someone out there who has already tested funnels and found one that converts customers well, and you can use that to your advantage.
