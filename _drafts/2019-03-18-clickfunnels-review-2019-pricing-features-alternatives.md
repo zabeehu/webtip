@@ -111,7 +111,7 @@ It still costs you $10 to get a customer, but this time you are going to be smar
 
 This means after your expenses ($10 FB ads, $15 product cost), you end up with $30 in profit instead of $5. This isn't that hard to implement, as long as you understand your ideal customer, and provide real value and trust. This is where the real money is made, and ClickFunnels lets you execute all of this easily.
 
-ClickFunnels to Build an Email List
+### ClickFunnels to Build an Email List
 
 Building an email list is key for any business, and a lot of people ignore this. They say on average you should make about $1 per person on your email list per month. So if you have 1000 people on you list, that's an extra $1000 per month. After a while, this list can build up to a pretty large amount, so this is something to take advantage of. 
 
@@ -119,7 +119,7 @@ To build a list, you need something of value that you can exchange for someones 
 
 In ClickFunnels, you can literally create a high-converting email opt-in funnel in minutes just by customizing one of the pre-built funnels. There are professionals who build funnels for a living, so this is a great example of how easy it can be to start using a funnel in your business.
 
-ClickFunnels to make a website
+### ClickFunnels for a Business Website
 
 Not everyone knows this, but you can actually just make a website with ClickFunnels, and it's really easy.
 
