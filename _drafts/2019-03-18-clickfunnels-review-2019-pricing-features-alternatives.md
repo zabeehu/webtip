@@ -49,11 +49,11 @@ With the base version ($97/month), you are limited to 20 funnels, 100 landing pa
 
 When you're ready to start scaling, creating more funnels, and want to use the Etison Suite, then you should upgrade to the $297 a month version. At this point, the features you gain will outweigh the price, and it should be paying for itself easily.
 
-## The problem with ClickFunnels
+## The Problem with ClickFunnels
 
 Lets start off with the problems that ClickFunnels has. There must be a reason that everyone doesn't have it right?
 
-There are some issues, but none of them are close to a deal-breaker. 
+There are some issues, but none of them are close to a deal-breaker.  
 
 First of all, at this point in time, there is no undo button. This will most likely change in the near future but right now you can't undo. When it comes to typing and simpler things like dragging content around, undo would be nice but isn't a huge deal. When it would be a real problem is when something is deleted. Some content can be customized heavily, and if its deleted you'll have to do it all over again. We expect this to change very soon, but right now that's actually one of the biggest problems, which actually says a lot.
 
