@@ -31,11 +31,12 @@ Cons
 **What we'll go over in this ClickFunnels review...**
 
 * What is ClickFunnels
-* The problem with ClickFunnels
-* ClickFunnels Pricing - Is it worth it?
-* Top Features
+* ClickFunnels Pricing
+* The Problem with ClickFunnels
+* ClickFunnels Top Features
 * How to get started with Clickfunnels
-* Conclusion - Should you purchase ClickFunnels
+* ClickFunnels Affiliate Program
+* Conclusion - Should you purchase ClickFunnels?
 
 ## What is ClickFunnels?
 
@@ -157,7 +158,7 @@ Many businesses offer an affiliate program, and its a great way to grow as a bus
 
 ## Conclusion - Should you purchase ClickFunnels?
 
-Simply put, if you are pursuing online business and have not implemented any real sales funnels yet, ClickFunnels is by far the best option. It is even possible to save money by switching to ClickFunnels, because you can eliminate other services that it replaces.
+Simply put, it doesn't matter if you're a drop shipper, affiliate marketer, lead generator, or even a dentist. If you are pursuing online business and have not implemented any real sales funnels yet, ClickFunnels is by far the best option. It is even possible to save money by switching to ClickFunnels, because you can eliminate other services that it replaces.
 
 If you already have some funnels in place but are looking to switch, it is definitely an easy transition that is worth it. The simplicity, the community and support, and ability to copy/share funnels is all great. Not to mention you can easily build and manage a huge email list all in ClickFunnels.
 
