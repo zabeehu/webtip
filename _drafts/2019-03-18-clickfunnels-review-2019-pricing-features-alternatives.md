@@ -111,6 +111,12 @@ It still costs you $10 to get a customer, but this time you are going to be smar
 
 This means after your expenses ($10 FB ads, $15 product cost), you end up with $30 in profit instead of $5. This isn't that hard to implement, as long as you understand your ideal customer, and provide real value and trust. This is where the real money is made, and ClickFunnels lets you execute all of this easily.
 
+### ClickFunnels for Drop Shipping
+
+This falls under e-commerce, but some people only drop ship, and using ClickFunnels can be the key to success for drop shippers in 2019. 
+
+For example, at this point most people say free plus shipping is completely dead. Its because the original way just using Shopify and no up-sells is just not profitable enough. You can gain an incredible amount of emails using this funnel, and if you can break even with ad cost and product cost, the money is made with the upsells. This is how it should have been done in the first place, and can still be used to make money. It's really popular for beginners because they see sales and can build an email list, but using a good funnel and a good product you can actually make some real money. You can even just use this funnel to bring in a lot of customers, and introduce them to you higher ticket products.
+
 ### ClickFunnels to Build an Email List
 
 Building an email list is key for any business, and a lot of people ignore this. They say on average you should make about $1 per person on your email list per month. So if you have 1000 people on you list, that's an extra $1000 per month. After a while, this list can build up to a pretty large amount, so this is something to take advantage of. 
@@ -131,15 +137,15 @@ Creating a membership site where your product generates revenue on a monthly bas
 
 With ClickFunnels, you can easily run a membership business, by using the proven funnels, page designs, and even manage your customers all in ClickFunnels itself. It's the best way to do it, and is really simple to manage.
 
+### ClickFunnels to Build Landing Pages
+
+If all you want to do is build landing pages and send customers to your Shopify store or elsewhere, the templates available and the process to build a landing page is so easy. No need to know HTML, coding, design, or anything. Again, you can start with one of the templates, or if you have your own design, that can be created in ClickFunnels so easily its laughable. Landing pages are where the money is made and customers are gained, so it literally pays for itself with its ease of use.
+
 ## ClickFunnels Affiliate Program
 
 One of the biggest bonuses for ClickFunnels is the affiliate program. If you don't know what affiliate marketing is, it's when you get paid to promote other people's products. If you refer someone else to ClickFunnels, you get paid 40% of monthly recurring revenue. It comes out to about $40 per user when they get the base version, and you get paid monthly for as long as they have ClickFunnels. 
 
 If you love ClickFunnels and have an audience to recommend it to, or find a way to advertise it, you can make some serious money. This program is open to all users for free, and should definitely be taken advantage of. 
-
-### ClickFunnels to Build Landing Pages
-
-If all you want to do is build landing pages and send customers to your Shopify store or elsewhere, the templates available and the process to build a landing page is so easy. No need to know HTML, coding, design, or anything. Again, you can start with one of the templates, or if you have your own design, that can be created in ClickFunnels so easily its laughable. Landing pages are where the money is made and customers are gained, so it literally pays for itself with its ease of use.
 
 ## Conclusion - Should you purchase ClickFunnels?
 
