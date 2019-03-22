@@ -147,6 +147,12 @@ One of the biggest bonuses for ClickFunnels is the affiliate program. If you don
 
 If you love ClickFunnels and have an audience to recommend it to, or find a way to advertise it, you can make some serious money. This program is open to all users for free, and should definitely be taken advantage of. 
 
+#### Is ClickFunnels a pyramid scheme?
+
+There is talk going around where people think ClickFunnels is a pyramid scheme. This goes back to what we said before about how people advertise ClickFunnels in a spammy way, and is not good for the community. The right way to use the affiliate program and the only way that really matters is if you advertise and recommend ClickFunnels to business owners that can implement funnels the best and most efficient way possible. Like we stated plenty of times, and almost all entrepreneurs agree, every business should use funnels. The only question is do you like ClickFunnels as a tool. Most people agree that it is by far the best, and affiliate marketers should advertise that way. 
+
+When people are trying to sell ClickFunnels by saying you should get ClickFunnels and tell the people that buy to sell it to others and so on, it's not right. It's not that its a pyramid scheme, but it is just stupid.  The people who are actually making money with the affiliate program are providing value, and recommending it to people who need funnels in their business. That's really it. It is NOT a pyramid scheme, it's just good product that all entrepreneurs can take advantage of. There will always be people that just want a quick buck, and will say whatever to try and get a sale. 
+
 ## Conclusion - Should you purchase ClickFunnels?
 
 Simply put, if you are pursuing online business and have not implemented any real sales funnels yet, ClickFunnels is by far the best option. It is even possible to save money by switching to ClickFunnels, because you can eliminate other services that it replaces.
