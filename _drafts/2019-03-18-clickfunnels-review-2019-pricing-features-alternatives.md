@@ -87,6 +87,30 @@ With each funnel, you can create a simple A/B test, which allows you to test 2 v
 
 If you've decided that you want to use sales funnels, you are ahead of the game. But you might be thinking, how will you actually make a funnel? How long will it take? How do I know it will work? These are all valid questions that you should be asking. There's a reason ClickFunnels has become so popular, and it is that you have the choice to build your own funnel, or use pre-built funnels. ClickFunnels has many funnels offered off the bat including e-commerce funnels, email opt-ins, webinar funnels, and many more. The great thing is that the structure of these funnels are proven, and all you have to do is customize them for your business and add copy. The best part, users can build funnels, and instantly share them with anyone else in the world. This means all over the internet are people sharing their funnels for free so you can copy them and try to imitate their success. The key is to find funnels that are proven and have high conversion rates. This means less work for you, and can help you reach your goals faster. As long as you have a vision and a product to offer, you should have no issue launching your first funnel.
 
+## Who is ClickFunnels for?
+
+For anybody pursuing online business and marketing, there is a place for ClickFunnels as a software. It can actually be the only software you use, which can be really efficient and cost effective.
+
+### ClickFunnels for E-Commerce
+
+When it comes to e-commerce, a lot of gurus online try to make it seem like you can start selling something and make lot of money by running ads on Facebook, and sending traffic to a simple product page, and it will sell itself.
+
+This is really sad and is giving people the wrong impression, which is causing them to lose money. Just having a product showcase which something like Shopify can definitely work, but usually for brands that already have authority, customers, and proven products that people are ready to buy. It can also sometimes work when a product is going viral, people have nowhere else to buy it so they just buy from that store they see an ad for. Even if that method does produce sales, the profits and conversion rate that can be achieved is nowhere near a good funnel.
+
+ClickFunnels can allow you to get the most out of each visitor and increase profits drastically.
+
+One of the main factors in e-commerce and paid advertising is cost per purchase. The amount it costs you to get a sale. If the pure profit is more than the product cost and cost per purchase combined, that is great. 
+
+If you have a Shopify store and send people to a product page with no funnel, the amount of sales you get will be less, you won't start building an email list, and your average order value will be less.
+
+Let's say it costs you $10 to get a sale from Facebook ads. You are selling your product for $30, and it costs you $15 to get. This means you have a $5 profit. If a customer doesn't buy, you didn't get anything from them, and you cannot talk to them again unless you pay more for ads/retargeting.
+
+This definitely isn't great, and it will be really easy to start losing money if something goes wrong. Let's see what your numbers can look like in your e-commerce business if you implement sales funnels with ClickFunnels.
+
+It still costs you $10 to get a customer, but this time you are going to be smarter with the money you spend on ads. The first thing you do is have a landing page, where you actually sell the product, using reviews, photos, good copy, and provide value by having an irresistible offer by adding a digital product, a course, a warranty, or just bundling items together. All of this can be easily done with ClickFunnels. For them to get to the next step, they have to submit their email. This is key, because even if they do NOT buy, you can have automated emails, which will let you keep in touch with them, remind them about your busines, offer better discounts, all for free. When they get to the next step, they will enter shipping and payment information, all in one step so they will have less chances to get distracted and not buy. Once they buy, there is still more. They will be presented with an up-sell, where they can get complimentary product that they NEED to get full advantage or a better experience. If they say no, the next page can offer the same thing, with an insane discount that they cannot decline. Next, you can offer them something else, or even more of the same thing if appropriate. In the end, what you end up with is an average order value that is a lot more than the original $30. Now it is $55. 
+
+This means after your expenses ($10 FB ads, $15 product cost), you end up with $30 in profit instead of $5. This isn't that hard to implement, as long as you understand your ideal customer, and provide real value and trust. This is where the real money is made, and ClickFunnels lets you execute all of this easily.
+
 ## ClickFunnels Affiliate Program
 
 One of the biggest bonuses for ClickFunnels is the affiliate program. If you don't know what affiliate marketing is, it's when you get paid to promote other people's products. If you refer someone else to ClickFunnels, you get paid 40% of monthly recurring revenue. It comes out to about $40 per user when they get the base version, and you get paid monthly for as long as they have ClickFunnels. 
