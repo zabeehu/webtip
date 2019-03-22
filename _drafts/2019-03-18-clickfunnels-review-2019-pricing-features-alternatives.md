@@ -125,11 +125,21 @@ Not everyone knows this, but you can actually just make a website with ClickFunn
 
 Now its not really recommended if you just want a personal blog or something, but where this really makes sense is if your website if mainly a way for customers to get in the funnels you have created. Some of the biggest growing businesses websites just consists of funnels. You can easily achieve this with ClickFunnels, and its a great way to take full advantage of all your visitors, and will be the wave in the future. Keep in mind if you go this route, you can still have a homepage, blog, about us, and more all made with a drag and drop interface.
 
+### ClickFunnels for a Membership Site
+
+Creating a membership site where your product generates revenue on a monthly basis is a great way to make money in 2019, and a lot of people are teaching this. If you can create your own product, and find a way to keep people signed up for months or even years, this is a killer business model. 
+
+With ClickFunnels, you can easily run a membership business, by using the proven funnels, page designs, and even manage your customers all in ClickFunnels itself. It's the best way to do it, and is really simple to manage.
+
 ## ClickFunnels Affiliate Program
 
 One of the biggest bonuses for ClickFunnels is the affiliate program. If you don't know what affiliate marketing is, it's when you get paid to promote other people's products. If you refer someone else to ClickFunnels, you get paid 40% of monthly recurring revenue. It comes out to about $40 per user when they get the base version, and you get paid monthly for as long as they have ClickFunnels. 
 
 If you love ClickFunnels and have an audience to recommend it to, or find a way to advertise it, you can make some serious money. This program is open to all users for free, and should definitely be taken advantage of. 
+
+### ClickFunnels to Build Landing Pages
+
+If all you want to do is build landing pages and send customers to your Shopify store or elsewhere, the templates available and the process to build a landing page is so easy. No need to know HTML, coding, design, or anything. Again, you can start with one of the templates, or if you have your own design, that can be created in ClickFunnels so easily its laughable. Landing pages are where the money is made and customers are gained, so it literally pays for itself with its ease of use.
 
 ## Conclusion - Should you purchase ClickFunnels?
 
