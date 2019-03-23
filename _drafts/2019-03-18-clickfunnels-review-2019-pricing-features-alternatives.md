@@ -3,7 +3,8 @@ layout: post
 title: ClickFunnels Review [2019] - Pricing and Features
 date: 2019-03-18 08:24:02 +0000
 permalink: "/clickfunnels-review/"
-categories: []
+categories:
+- Reviews
 
 ---
 If you're trying to sell stuff online and want to become more profitable, there's a simple fix. Implement a proper sales funnel.
@@ -28,7 +29,7 @@ Cons
 * Price can be high for beginners
 * No undo button
 
-**What we'll go over in this ClickFunnels review...**
+**What we'll go over in this review...**
 
 * What is ClickFunnels
 * ClickFunnels Pricing
@@ -104,11 +105,11 @@ One of the main factors in e-commerce and paid advertising is cost per purchase.
 
 If you have a Shopify store and send people to a product page with no funnel, the amount of sales you get will be less, you won't start building an email list, and your average order value will be less.
 
-Let's say it costs you $10 to get a sale from Facebook ads. You are selling your product for $30, and it costs you $15 to get. This means you have a $5 profit. If a customer doesn't buy, you didn't get anything from them, and you cannot talk to them again unless you pay more for ads/retargeting.
+Let's say it costs you $10 to get a sale from Facebook ads. You are selling your product for $30, and it costs you $15 to get. This means you have a $5 profit. If a customer doesn't buy, you didn't get anything from them, and you cannot talk to them again unless you pay more for ads/re-targeting.
 
 This definitely isn't great, and it will be really easy to start losing money if something goes wrong. Let's see what your numbers can look like in your e-commerce business if you implement sales funnels with ClickFunnels.
 
-It still costs you $10 to get a customer, but this time you are going to be smarter with the money you spend on ads. The first thing you do is have a landing page, where you actually sell the product, using reviews, photos, good copy, and provide value by having an irresistible offer by adding a digital product, a course, a warranty, or just bundling items together. All of this can be easily done with ClickFunnels. For them to get to the next step, they have to submit their email. This is key, because even if they do NOT buy, you can have automated emails, which will let you keep in touch with them, remind them about your busines, offer better discounts, all for free. When they get to the next step, they will enter shipping and payment information, all in one step so they will have less chances to get distracted and not buy. Once they buy, there is still more. They will be presented with an up-sell, where they can get complimentary product that they NEED to get full advantage or a better experience. If they say no, the next page can offer the same thing, with an insane discount that they cannot decline. Next, you can offer them something else, or even more of the same thing if appropriate. In the end, what you end up with is an average order value that is a lot more than the original $30. Now it is $55. And don't forget, you can make even more money buy setting up emails for the customers who didn't buy, and it is basically free money when they do end up buying in the future.
+It still costs you $10 to get a customer, but this time you are going to be smarter with the money you spend on ads. The first thing you do is have a landing page, where you actually sell the product, using reviews, photos, good copy, and provide value by having an irresistible offer by adding a digital product, a course, a warranty, or just bundling items together. All of this can be easily done with ClickFunnels. For them to get to the next step, they have to submit their email. This is key, because even if they do NOT buy, you can have automated emails, which will let you keep in touch with them, remind them about your business, offer better discounts, all for free. When they get to the next step, they will enter shipping and payment information, all in one step so they will have less chances to get distracted and not buy. Once they buy, there is still more. They will be presented with an up-sell, where they can get complimentary product that they NEED to get full advantage or a better experience. If they say no, the next page can offer the same thing, with an insane discount that they cannot decline. Next, you can offer them something else, or even more of the same thing if appropriate. In the end, what you end up with is an average order value that is a lot more than the original $30. Now it is $55. And don't forget, you can make even more money buy setting up emails for the customers who didn't buy, and it is basically free money when they do end up buying in the future.
 
 This means after your expenses ($10 FB ads, $15 product cost), you end up with $30 in profit instead of $5. This isn't that hard to implement, as long as you understand your ideal customer, and provide real value and trust. This is where the real money is made, and ClickFunnels lets you execute all of this easily.
 
@@ -144,7 +145,7 @@ If all you want to do is build landing pages and send customers to your Shopify 
 
 ## ClickFunnels Affiliate Program
 
-One of the biggest bonuses for ClickFunnels is the affiliate program. If you don't know what affiliate marketing is, it's when you get paid to promote other people's products. If you refer someone else to ClickFunnels, you get paid 40% of monthly recurring revenue. It comes out to about $40 per user when they get the base version, and you get paid monthly for as long as they have ClickFunnels.
+One of the biggest bonuses for ClickFunnels is the affiliate program. If you don't know what affiliate marketing is, it's when you get paid to promote other people's products. If you refer someone else to ClickFunnels, you get paid 40% of monthly recurring revenue. It comes out to about $38 per user when they get the base version, and you get paid that amount monthly for as long as they have ClickFunnels.
 
 If you love ClickFunnels and have an audience to recommend it to, or find a way to advertise it, you can make some serious money. This program is open to all users for free, and should definitely be taken advantage of.
 
