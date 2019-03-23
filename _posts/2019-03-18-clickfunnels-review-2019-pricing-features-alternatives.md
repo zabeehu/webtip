@@ -9,7 +9,7 @@ categories:
 ---
 If you're trying to sell stuff online and want to become more profitable, there's a simple fix. Implement a proper sales funnel.
 
-There are many ways to build funnels nowadays. ClickFunnels is the top funnel builder available right now. Let's see if it's the right tool for you.
+There are many ways to build funnels nowadays. [ClickFunnels](https://www.clickfunnels.com/ "ClickFunnels") is the top funnel builder available right now. Let's see if it's the right tool for you.
 
 ## Review Summary
 
@@ -41,11 +41,11 @@ Cons
 
 ## What is ClickFunnels?
 
-ClickFunnels is a software that allows you to easily create sales funnels. It does a lot more than that, but simply put it is the simplest funnel builder out there. It was created in 2014 by Russell Brunson, and has become a $100 Million a year business. His vision was to let people make funnels without investing thousands in coding, designing, etc. It has become the go-to tool for entrepreneurs and lets any beginner get a head start by setting up high-converting sales funnels in minutes.
+[ClickFunnels](https://www.clickfunnels.com/) is a software that allows you to easily create sales funnels. It does a lot more than that, but simply put it is the simplest funnel builder out there. It was created in 2014 by Russell Brunson, and has become a $100 Million a year business. His vision was to let people make funnels without investing thousands in coding, designing, etc. It has become the go-to tool for entrepreneurs and lets any beginner get a head start by setting up high-converting sales funnels in minutes.
 
 ## ClickFunnels Pricing
 
-The base version of ClickFunnels is $97 a month. There is also a $297 tier which includes more advanced features without restrictions. Both offer split testing and email integration, as well as a free 14-day free trial.
+The base version of [ClickFunnels ](https://www.clickfunnels.com/)is $97 a month. There is also a $297 tier which includes more advanced features without restrictions. Both offer split testing and email integration, as well as a free 14-day free trial.
 
 With the base version ($97/month), you are limited to 20 funnels, 100 landing pages, and 20,000 visitors a month. For most beginners and business owners who aren't scaling with very high traffic, the base tier is enough.
 
@@ -103,7 +103,7 @@ ClickFunnels can allow you to get the most out of each visitor and increase prof
 
 One of the main factors in e-commerce and paid advertising is cost per purchase. The amount it costs you to get a sale. If the pure profit is more than the product cost and cost per purchase combined, that is great.
 
-If you have a Shopify store and send people to a product page with no funnel, the amount of sales you get will be less, you won't start building an email list, and your average order value will be less.
+If you have a [Shopify](https://www.shopify.com/) store and send people to a product page with no funnel, the amount of sales you get will be less, you won't start building an email list, and your average order value will be less.
 
 Let's say it costs you $10 to get a sale from Facebook ads. You are selling your product for $30, and it costs you $15 to get. This means you have a $5 profit. If a customer doesn't buy, you didn't get anything from them, and you cannot talk to them again unless you pay more for ads/re-targeting.
 
