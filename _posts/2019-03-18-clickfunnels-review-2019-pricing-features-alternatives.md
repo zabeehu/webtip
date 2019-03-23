@@ -2,7 +2,8 @@
 layout: post
 title: ClickFunnels Review [2019] - Pricing and Features
 date: 2019-03-18 08:24:02 +0000
-permalink: "/clickfunnels-review/"
+permalink: "/clickfunnels-review"
+description: "Review of CLickFunnels. Find out if ClickFunnels is something you should consider for your business. Pricing, features, issues, and more."
 categories:
 - Reviews
 
