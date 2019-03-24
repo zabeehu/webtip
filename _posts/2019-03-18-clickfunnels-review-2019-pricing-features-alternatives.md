@@ -5,12 +5,13 @@ date: 2019-03-18 08:24:02 +0000
 permalink: "/clickfunnels-review"
 description: "Review of CLickFunnels. Find out if ClickFunnels is something you should consider for your business. Pricing, features, issues, and more."
 categories:
+- Funnels
 - Reviews
 
 ---
 If you're trying to sell stuff online and want to become more profitable, there's a simple fix. Implement a proper sales funnel.
 
-There are many ways to build funnels nowadays. [ClickFunnels](https://www.clickfunnels.com/ "ClickFunnels") is the top funnel builder available right now. Let's see if it's the right tool for you.
+There are many ways to build funnels nowadays. [ClickFunnels](https://www.clickfunnels.com/ "ClickFunnels") is the top funnel builder available right now. In this ClickFunnels Review, you can find out if it's the right tool for you.
 
 ## Review Summary
 
@@ -30,7 +31,7 @@ Cons
 * Price can be high for beginners
 * No undo button
 
-**What we'll go over in this review...**
+**What we'll go over in this ClickFunnels review...**
 
 * What is ClickFunnels
 * ClickFunnels Pricing
@@ -52,6 +53,10 @@ With the base version ($97/month), you are limited to 20 funnels, 100 landing pa
 
 When you're ready to start scaling, creating more funnels, and want to use the Etison Suite, then you should upgrade to the $297 a month version. At this point, the features you gain will outweigh the price, and it should be paying for itself easily.
 
+### Is ClickFunnels worth it?
+
+Almost $100 per month price might seem high for some beginners, but is it really? The amount of tools that ClickFunnels replaces is insane, and not to mention plugins or apps to expand functionality. With the base plan, that is all you need to run your business. So for beginners, using just ClickFunnels is very good value and can allow you to have all the features you might not have even had before for less money. You can have a website, blog, e-commerce storefront, up-sells, automatic emails, opt-in pages, and webinars. I'm probably forgetting something else, but digging deeper in to the features, ClickFunnels is actually the only software beginners need. And if you still aren't sure, the 14-day free trial should be enough to convince you.
+
 ## The Problem with ClickFunnels
 
 Lets start off with the problems that ClickFunnels has. There must be a reason that everyone doesn't have it right?
@@ -63,10 +68,6 @@ First of all, at this point in time, there is no undo button. This will most lik
 There are some bugs here and there, like needing to refresh every now and then, and stats not loading the first time, but again there is nothing really that a refresh or re-login can't fix. If you do have some weird issue, customer support is really quick and will help you.
 
 As for why everyone doesn't use ClickFunnels, its either that they are in too deep with other software and don't feel like switching, are stubborn, or just don't understand the power of sales funnels in general. Almost every successful entrepreneur is aware of the power of ClickFunnels, and unless they have their own team to code custom funnels and high designers, they probably use and promote ClickFunnels.
-
-### Is ClickFunnels worth it?
-
-Almost $100 per month price might seem high for some beginners, but is it really? The amount of tools that ClickFunnels replaces is insane, and not to mention plugins or apps to expand functionality. With the base plan, that is all you need to run your business. So for beginners, using just ClickFunnels is very good value and can allow you to have all the features you might not have even had before for less money. You can have a website, blog, e-commerce storefront, up-sells, automatic emails, opt-in pages, and webinars. I'm probably forgetting something else, but digging deeper in to the features, ClickFunnels is actually the only software beginners need. And if you still aren't sure, the 14-day free trial should be enough to convince you.
 
 ### Is ClickFunnels a scam?
 
@@ -90,9 +91,21 @@ With each funnel, you can create a simple A/B test, which allows you to test 2 v
 
 If you've decided that you want to use sales funnels, you are ahead of the game. But you might be thinking, how will you actually make a funnel? How long will it take? How do I know it will work? These are all valid questions that you should be asking. There's a reason ClickFunnels has become so popular, and it is that you have the choice to build your own funnel, or use pre-built funnels. ClickFunnels has many funnels offered off the bat including e-commerce funnels, email opt-ins, webinar funnels, and many more. The great thing is that the structure of these funnels are proven, and all you have to do is customize them for your business and add copy. The best part, users can build funnels, and instantly share them with anyone else in the world. This means all over the internet are people sharing their funnels for free so you can copy them and try to imitate their success. The key is to find funnels that are proven and have high conversion rates. This means less work for you, and can help you reach your goals faster. As long as you have a vision and a product to offer, you should have no issue launching your first funnel.
 
+### How to create your first funnel
+
+Russel Brunson, the creator of ClickFunnels, has spent countless hours testing and creating different funnels. In the end, he said that there are just 3 core funnels that matter in his business. About 98% of income comes from those 3. The tripwire funnel, webinar funnel, and the high ticket funnel. 
+
+#### Tripwire Funnel
+
+A tripwire funnels consists of a very low ticket offer, and includes a number of up-sells to increase the average order value. Free plus shipping offers, which are popular with drop shippers, are tripwires. However, 99% of them are not actually funnels. Don't sell a bad quality product with no up-sells or email opt-ins. Those are not funnels and will not make you money, even if YouTube gurus teach that. It all comes down to cost per purchase, average order value, and lifetime customer value.
+
+The best example of a tripwire funnel / free plus shipping offer is Russell Brunson's own free book funnel. He has used this funnel to introduce thousands of people to ClickFunnels. With his first book, DotCom Secrets, which released alongside ClickFunnels, he was able to generate about $31 for every book he gave away. It all starts with the first offer, which is the free book, plus $7.95 shipping. Once someone decides to get the book, right above the order button, there is something called an order bump. It is basically a very quick complimentary item, which in this case is an audiobook version. Its just a simple checkbox, and about 20-30% of people took that offer. The next page offers another upsell, which was a course in this funnel, and the next page is another course. In the end, it turned a $7.95 average order value to over $30. **This means he can spend up to $30 on ads and give away the book for free.** That's how you beat the competition, by out-marketing them. This is just on the front end, and doesn't include products bought after the fact, including ClickFunnels itself. This is how ClickFunnels brings in countless customers for free, and after this book funnel, those customers are around for life. If they spend any money on ClickFunnels products in the future, it is just pure profit.
+
+The tripwire can be implemented in any online business, and definitely should. You can use it to make money, as well as introduce people to your brand. If done right, it will do both. Keep in mind, whatever low-ticket/free product is offered in your tripwire, needs to provide value, and be of quality. If the product is bad, customers will never come back.
+
 ## Who is ClickFunnels for?
 
-For anybody pursuing online business and marketing, there is a place for ClickFunnels as a software. It can actually be the only software you use, which can be really efficient and cost effective.
+For anybody pursuing online business and marketing, there is a place for ClickFunnels as a software. It can actually be the only software you use, which can be really efficient and cost effective. Below are some common use cases.
 
 ### ClickFunnels for E-Commerce
 
@@ -149,6 +162,8 @@ If all you want to do is build landing pages and send customers to your Shopify 
 One of the biggest bonuses for ClickFunnels is the affiliate program. If you don't know what affiliate marketing is, it's when you get paid to promote other people's products. If you refer someone else to ClickFunnels, you get paid 40% of monthly recurring revenue. It comes out to about $38 per user when they get the base version, and you get paid that amount monthly for as long as they have ClickFunnels.
 
 If you love ClickFunnels and have an audience to recommend it to, or find a way to advertise it, you can make some serious money. This program is open to all users for free, and should definitely be taken advantage of.
+
+If you can sign up 100 customers to ClickFunnels, you'll be making $3800 a month as long as they stay signed up. Give yourself 100 days, can you give away 1 free trial per day? If so, you'll have created a full time income stream in just about 3 months. If you have the right knowledge, and have a plan, this can be achieved. 
 
 #### Is ClickFunnels a pyramid scheme?
 
