@@ -99,11 +99,11 @@ A tripwire funnels consists of a very low ticket offer, and includes a number of
 
 The best example of a tripwire funnel / free plus shipping offer is Russell Brunson's own free book funnel. He has used this funnel to introduce thousands of people to ClickFunnels. With his first book, DotCom Secrets, which released alongside ClickFunnels, he was able to generate about $31 for every book he gave away. It all starts with the first offer, which is the free book, plus $7.95 shipping. Once someone decides to get the book, right above the order button, there is something called an order bump. It is basically a very quick complimentary item, which in this case is an audiobook version. Its just a simple checkbox, and about 20-30% of people took that offer. The next page offers another upsell, which was a course in this funnel, and the next page is another course. In the end, it turned a $7.95 average order value to over $30. **This means he can spend up to $30 on ads and give away the book for free.** That's how you beat the competition, by out-marketing them. This is just on the front end, and doesn't include products bought after the fact, including ClickFunnels itself. This is how ClickFunnels brings in countless customers for free, and after this book funnel, those customers are around for life. If they spend any money on ClickFunnels products in the future, it is just pure profit.
 
-The tripwire can be implemented in any online business, and definitely should. You can use it to make money, as well as introduce people to your brand. If done right, it will do both. Keep in mind, whatever low-ticket/free product is offered in your tripwire, needs to provide very good value, and be of quality. If the product is bad, customers will never come back.
+The tripwire can be implemented in any online business, and definitely should. You can use it to make money, as well as introduce people to your brand. If done right, it will do both. Keep in mind, whatever low-ticket/free product is offered in your tripwire, needs to provide value, and be of quality. If the product is bad, customers will never come back.
 
 ## Who is ClickFunnels for?
 
-For anybody pursuing online business and marketing, there is a place for ClickFunnels as a software. It can actually be the only software you use, which can be really efficient and cost effective.
+For anybody pursuing online business and marketing, there is a place for ClickFunnels as a software. It can actually be the only software you use, which can be really efficient and cost effective. Below are some common use cases.
 
 ### ClickFunnels for E-Commerce
 
