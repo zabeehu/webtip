@@ -161,6 +161,8 @@ One of the biggest bonuses for ClickFunnels is the affiliate program. If you don
 
 If you love ClickFunnels and have an audience to recommend it to, or find a way to advertise it, you can make some serious money. This program is open to all users for free, and should definitely be taken advantage of.
 
+If you can sign up 100 customers to ClickFunnels, you'll be making $3800 a month as long as they stay signed up. Give yourself 100 days, can you give away 1 free trial per day? If so, you'll have created a full time income stream in just about 3 months. If you have the right knowledge, and have a plan, this can be achieved. 
+
 #### Is ClickFunnels a pyramid scheme?
 
 There is talk going around where people think ClickFunnels is a pyramid scheme. This goes back to what we said before about how people advertise ClickFunnels in a spammy way, and is not good for the community. The right way to use the affiliate program and the only way that really matters is if you advertise and recommend ClickFunnels to business owners that can implement funnels the best and most efficient way possible. Like we stated plenty of times, and almost all entrepreneurs agree, every business should use funnels. The only question is do you like ClickFunnels as a tool. Most people agree that it is by far the best, and affiliate marketers should advertise that way.
