@@ -1,8 +1,7 @@
 # SITE CONFIGURATION
 title: WebTip.org # your site title
 author:  # You :P
-description: "Guides, reviews, and tips to be successful on the web. Pursue online business
-the right way." # Meta description of Homepage
+description: "Guides, reviews, and tips to be successful on the web." # Meta description of Homepage
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://webtip.org" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -19,13 +18,13 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: ''}
+  - {name: 'Home', link: '/'}
   - {name: 'Categories', link: '/categories'}
   - {name: 'About', link: '/about'}
   #- {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Tips, guides, and reviews. Pursue online business the right way.
+  
 
 hero_img: posts/hero.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
